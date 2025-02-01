@@ -2,4 +2,4 @@
 
 let nome = prompt("Qual seu nome? ");
 let idade = prompt("Qual sua idade? ");
-console.log("Olá, meu nome é " + nome +" e eu tenho" +idade+ "anos");
+console.log("Olá, meu nome é " + nome +" e eu tenho " +idade+ " anos.");

@@ -2,5 +2,5 @@
 
 let preco = 50;
 let desconto = 0.2;
-let totaldesconto = 50 * 0.2;
+let totaldesconto = preco * desconto;
 console.log("Desconto: " + totaldesconto );

@@ -5,6 +5,6 @@ function areadocirculo(x) {
     return area;
 }
 
-let raio = prompt("Digite o raio do círculo:");
+let raio = parseFloat(prompt("Digite o raio do círculo:"));
 let area = areadocirculo(raio);
 console.log("Área do círculo: " + area);

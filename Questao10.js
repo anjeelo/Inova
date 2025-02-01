@@ -2,6 +2,6 @@
 let numero;
 
 while(numero != 5){
-    numero = prompt("Digite um valor: ");
-    console.log(numero)
+    numero = parseInt(prompt("Digite um valor: "));
+    console.log(numero);
 }
